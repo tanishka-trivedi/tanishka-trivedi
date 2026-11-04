@@ -34,7 +34,7 @@ I'm interested in building **end-to-end AI applications**—from understanding t
 | **Applied AI & ML** | Computer Vision · NLP · Deep Learning · Forecasting |
 | **LLM & Retrieval Systems** | RAG · Document Retrieval · Knowledge-Grounded Applications |
 | **Software Engineering** | Backend Services · APIs · Data Structures & Algorithms · System Design |
-| **Computer Systems** | Computer Architecture · Branch Prediction · Performance Evaluation |
+| **Computer Systems** | Computer Architecture · Operating Systems · Performance Evaluation |
 
 ---
 
@@ -110,7 +110,7 @@ I'm interested in building **end-to-end AI applications**—from understanding t
 
 ## Let's Connect
 
-I'm always interested in discussing **AI/ML, software engineering, computer systems, and collaborative projects**.
+I'm always up for a great discussion. You can connect here!
 
 **Email:** [tanishkatrivedi.20@gmail.com](mailto:tanishkatrivedi.20@gmail.com)  
 **GitHub:** [github.com/tanishka-trivedi](https://github.com/tanishka-trivedi)
